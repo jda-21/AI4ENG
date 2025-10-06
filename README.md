@@ -1,7 +1,8 @@
 # AI4ENG
 Intro to AI ENG
 
-Integrantes del grupo:
+
+### Integrantes del grupo:
 
 Juan Diego Alvarez; ID: 1003814249 ; Ingeniería Mecánica
 
