@@ -10,7 +10,9 @@ Intro to AI ENG
 
 `Enlace de vídeo 2:` 
 
-# Proyecto Final – Predicción de Rendimiento Académico (Competencia Kaggle)
+# Proyecto Final – Predicción de Rendimiento Académico
+
+**(Competencia Kaggle)**
 
 Este repositorio contiene el desarrollo completo del proyecto final, incluyendo la exploración del dataset, estrategias de preprocesamiento y las pruebas con diferentes modelos de Machine Learning.  
 El objetivo fue generar una solución competitiva para la competencia publicada en Kaggle.
