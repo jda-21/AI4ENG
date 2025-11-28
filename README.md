@@ -33,6 +33,11 @@ Durante el proceso se realizaron:
 
 ## Modelo Seleccionado: **CatBoost**
 
+## Datasets preprocesados:
+De manera alternativa, se pueden descargar todos los datasets usados en los modelos desde el siguiente enlace:
+
+`https://fromsmash.com/datasets-IA4Eng`
+
 ## 📂 Estructura del Repositorio
 
 ── README.md<br>
