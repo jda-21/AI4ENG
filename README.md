@@ -20,7 +20,7 @@ El objetivo fue generar una solución competitiva para la competencia publicada 
 ## Enfoque del Proyecto
 
 Durante el proceso se realizaron:
-- Se evaluaron algoritmos como regresiones, Random Forest, TensorFlow, CatBoost, junto con diferentes configuraciones y tamaños de muestra.
+- Se evaluaron algoritmos como regresiones, Gradient Boosting, Random Forest, TensorFlow, CatBoost, junto con diferentes configuraciones y tamaños de muestra.
 
 - **Múltiples pipelines de preprocesamiento**  
   Se construyeron diversos métodos de limpieza y normalización de los datos, abordando:
@@ -28,7 +28,6 @@ Durante el proceso se realizaron:
   - estandarización de texto,
   - normalización del target,
   - imputación de variables categóricas,
-  - homogenización de estructuras del dataset.
 
 **Para cada modelo se estudiaron métricas de accuracy y F1-macro con distintos tamaños del dataset, buscando estabilidad y buen rendimiento.**
 
