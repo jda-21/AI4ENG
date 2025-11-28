@@ -36,7 +36,7 @@ Durante el proceso se realizaron:
 
 ## 📂 Estructura del Repositorio
 
-── README.md
+── README.md<br>
 ├── 01 - exploración.ipynb<br>
 ├── 02 - preprocesado.ipynb<br>
 ├── 03 - preprocesado limpieza cualitativa.ipynb<br>
