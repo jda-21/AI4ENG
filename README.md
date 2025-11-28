@@ -8,7 +8,7 @@ Intro to AI ENG
 
 `Enlace de vídeo 1:` https://youtu.be/VxL-ZoebWmQ
 
-`Enlace de vídeo 2:` 
+`Enlace de vídeo 2:` https://youtu.be/zjdYYQlL3E8
 
 # Proyecto Final – Predicción de Rendimiento Académico
 
