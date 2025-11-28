@@ -7,6 +7,7 @@ Intro to AI ENG
 - Julián David Martínez; `ID: 1152226090` ; *Ingeniería Mecánica*
 
 `Enlace de vídeo 1:` https://youtu.be/VxL-ZoebWmQ
+
 `Enlace de vídeo 2:` 
 
 # Proyecto Final – Predicción de Rendimiento Académico (Competencia Kaggle)
