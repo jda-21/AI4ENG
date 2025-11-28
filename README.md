@@ -32,17 +32,17 @@ Durante el proceso se realizaron:
 
 **Para cada modelo se estudiaron métricas de accuracy y F1-macro con distintos tamaños del dataset, buscando estabilidad y buen rendimiento.**
 
-## Modelo Seleccionado: CatBoost
+## Modelo Seleccionado: **CatBoost**
 
 ## 📂 Estructura del Repositorio
 
 ── README.md
-├── 01 - exploración.ipynb
-├── 02 - preprocesado.ipynb
-├── 03 - preprocesado limpieza cualitativa.ipynb
-├── 04 - preprocesado test for catboost.ipynb
-├── 99 - modelo solución.ipynb
-└── catboost_model.cbm
+├── 01 - exploración.ipynb<br>
+├── 02 - preprocesado.ipynb<br>
+├── 03 - preprocesado limpieza cualitativa.ipynb<br>
+├── 04 - preprocesado test for catboost.ipynb<br>
+├── 99 - modelo solución.ipynb<br>
+└── catboost_model.cbm<br>
 
 **01 - exploración.ipynb**  
 Exploración inicial del dataset, análisis descriptivo y primeras observaciones.
@@ -61,5 +61,7 @@ Entrenamiento final del modelo, carga del modelo `.cbm`, evaluación interna y g
 
 **catboost_model.cbm**  
 Modelo entrenado final.
+
+
 
 
