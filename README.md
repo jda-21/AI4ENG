@@ -31,7 +31,9 @@ Durante el proceso se realizaron:
 
 **Para cada modelo se estudiaron métricas de accuracy y F1-macro con distintos tamaños del dataset, buscando estabilidad y buen rendimiento.**
 
-## Modelo Seleccionado: **CatBoost**
+## Modelo Seleccionado:
+
+**CatBoost**
 
 ## Datasets preprocesados:
 De manera alternativa, se pueden descargar todos los datasets usados en los modelos desde el siguiente enlace:
